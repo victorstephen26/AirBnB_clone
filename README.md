@@ -4,9 +4,8 @@ AirBnB Clone - The Console
 
 
 
-Purpose
 The purpose of this project is to understand how to:
-
+======================================================
 create a Python package
 create a command interpreter using the cmd module
 serialize and deserialize a Class
@@ -29,6 +28,7 @@ No data loaded from anything
 During this project, you will learn how to manipulate HTML and CSS languages. HTML is the structure of your page, it should be the first thing to write. CSS is the styling of your page, the design. I really encourage you to fix your HTML part before starting the styling. Indeed, without any structure, you can’t apply any design.
 
 Learning Objectives
+=====================
 What is HTML
 How to create an HTML page
 What is a markup language
@@ -42,7 +42,9 @@ What is a class
 What is a selector
 How to compute CSS Specificity Value
 What are Box properties in CSS
+
 Requirements
+===============
 PYTHON SCRIPT REQUIREMENTS
 allowed editors: vi, vim, emacs
 the first line of all files should be exactly #!/usr/bin/python3
@@ -55,7 +57,10 @@ all test files should be text files (extension: .txt)
 all test files should be executed using the command python3 -m doctest ./tests/*
 all modules should have documentation python3 -c 'print(__import__("my_module").__doc__)'
 all functions (inside and outside of classes) should have documentation python3 -c 'print(__import__("my_module").my_funct\ ion.__doc__)'
+
 General
+========
+
 Allowed editors: vi, vim, emacs
 All your files should end with a new line
 A README.md file, at the root of the folder of the project, is mandatory
