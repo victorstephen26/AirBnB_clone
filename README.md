@@ -125,7 +125,7 @@ All the code is tested with the unittest module. The test for the classes are in
 
 Authors
 =======
-. Ibibo Manuel ~ (https://github.com/IB01Manuel): 
-. Victor Stephen ~ (https://github.com/victorstephen26):
+Ibibo Manuel ~ (https://github.com/IB01Manuel)
+Victor Stephen ~ (https://github.com/victorstephen26)
 
   ![image](https://github.com/IB01Manuel/AirBnB_clone/assets/117752150/585833f2-dbbc-4653-b307-7160e9343a01)
