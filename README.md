@@ -112,4 +112,7 @@ License
 AirBnB Clone is open source and free to download and use
 
 Author
+=======
 @ IBIBO MANUEL and VICTOR STEPHEN
+
+  ![image](https://github.com/IB01Manuel/AirBnB_clone/assets/117752150/585833f2-dbbc-4653-b307-7160e9343a01)
