@@ -111,7 +111,7 @@ At this time, there are no known bugs.
 License
 AirBnB Clone is open source and free to download and use
 
-Author
+Authors
 =======
 @ IBIBO MANUEL and VICTOR STEPHEN
 
